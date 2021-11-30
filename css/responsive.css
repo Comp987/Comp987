@@ -236,7 +236,7 @@
   font-size:40pt
  }
 }
-@media (max-width:767px) {
+@media (max-width: 767px) {
  a.nav-link.wallet__link {
   padding:.36rem .5rem !important
  }
@@ -271,7 +271,8 @@
   margin:0
  }
  .enhancement img {
-  width:100%
+  min-width: 50%;
+  /* height: auto; */
  }
  .banner-text .banner__heading {
   font-size:56pt
@@ -280,7 +281,7 @@
   width:70%
  }
  .navbar {
-  padding:.5rem 1rem
+  padding:.5rem 1rem;
  }
  ul.navbar-nav li a.nav-link {
   border-bottom:1px solid #ffffff26;
