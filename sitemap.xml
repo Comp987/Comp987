@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tareria.com</loc>
+    <changefreq>daily</changefreq>
+    <image:image>
+      <image:loc>https://tareria.com/images/16.png</image:loc>
+    </image:image>
+ <image:image>
+      <image:loc>https://tareria.com/images/17.png</image:loc>
+    </image:image>
+ <image:image>
+      <image:loc>https://tareria.com/images/18.png</image:loc>
+    </image:image>
+ <image:image>
+      <image:loc>https://tareria.com/images/19.png</image:loc>
+    </image:image>
+ <image:image>
+      <image:loc>https://tareria.com/images/20.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
