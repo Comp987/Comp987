@@ -397,3 +397,18 @@ div#right1 {
 .dropdown:hover .dropbtn {
   background-color: black;
 }
+ul#ul_top_hypers li {
+    display: inline-block;
+    margin: 30px;
+    /* margin-top: 20px; */
+}
+
+ul#ul_top_hypers {
+    /* margin-top: 10px; */
+}
+
+span#texticon {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
